@@ -1,2 +1,3 @@
-console.log("running some typescript")
+import Contract from "../compile";
 
+console.log(`contract`, Contract)
