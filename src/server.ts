@@ -1,3 +1,3 @@
-import Contract from "../compile";
+import deploy from "../deploy";
 
-console.log(`contract`, Contract)
+deploy()
